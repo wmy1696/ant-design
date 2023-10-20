@@ -26,7 +26,7 @@ const data: DataType[] = [
     firstName: 'Jim',
     lastName: 'Green',
     age: 42,
-    address: 'London No. 1 Lake Park',
+    address: 'tet No. 1 Lake Park',
     tags: ['loser'],
   },
   {
